@@ -268,7 +268,7 @@ void u() {
     dot();
     gap();
     
-    dash()
+    dash();
 }
 
 void v() {
@@ -330,5 +330,7 @@ void z() {
     dot();
     gap();
     
-    dot()
+    dot();
 }
+
+
