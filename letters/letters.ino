@@ -16,6 +16,10 @@ void loop() {
             incomingByte = incomingByte - 32;
         }
 
+        if (incomingByte == 32) {
+            space();
+        }
+
         if (incomingByte == 65) {
             a();
             charspace();
@@ -146,6 +150,11 @@ void loop() {
             charspace();
         }
 
+        if (incomingByte == 48) {
+            zero();
+            charspace();
+        }
+
         if (incomingByte == 49) {
             one();
             charspace();
@@ -168,11 +177,6 @@ void loop() {
 
         if (incomingByte == 53) {
             five();
-            charspace();
-        }
-
-        if (incomingByte == 48) {
-            zero();
             charspace();
         }
 
