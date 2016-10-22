@@ -333,4 +333,167 @@ void z() {
     dot();
 }
 
+void one() {
+    dot();
+    gap();
+    
+    dash();
+    gap();
+    
+    dash();
+    gap();
+    
+    dash();
+    gap();
+    
+    dash();
+}
+
+void two() {
+    dot();
+    gap();
+    
+    dot();
+    gap();
+    
+    dash();
+    gap();
+    
+    dash();
+    gap();
+    
+    dash();
+}
+
+void three() {
+    dot();
+    gap();
+    
+    dot();
+    gap();
+    
+    dot();
+    gap();
+    
+    dash();
+    gap();
+    
+    dash();
+}
+
+void four() {
+    dot();
+    gap();
+    
+    dot();
+    gap();
+    
+    dot();
+    gap();
+    
+    dot();
+    gap();
+    
+    dash();
+}
+
+void five() {
+    dot();
+    gap();
+    
+    dot();
+    gap();
+    
+    dot();
+    gap();
+    
+    dot();
+    gap();
+    
+    dot();
+}
+
+void six() {
+    dash();
+    gap();
+    
+    dot();
+    gap();
+    
+    dot();
+    gap();
+    
+    dot();
+    gap();
+    
+    dot();
+}
+
+void seven() {
+    dash();
+    gap();
+    
+    dash();
+    gap();
+    
+    dot();
+    gap();
+    
+    dot();
+    gap();
+    
+    dot();
+}
+
+void eight() {
+    dash();
+    gap();
+    
+    dash();
+    gap();
+    
+    dash();
+    gap();
+    
+    dot();
+    gap();
+    
+    dot();
+}
+
+void nine() {
+    dash();
+    gap();
+    
+    dash();
+    gap();
+    
+    dash();
+    gap();
+    
+    dash();
+    gap();
+    
+    dot();
+}
+
+void ten() {
+    dash();
+    gap();
+    
+    dash();
+    gap();
+    
+    dash();
+    gap();
+    
+    dash();
+    gap();
+
+    dash();
+}
+
+void zero() {
+    dash();
+}
 
