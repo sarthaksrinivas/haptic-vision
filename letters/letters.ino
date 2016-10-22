@@ -20,6 +20,181 @@ void loop() {
             a();
             charspace();
         }
+
+        if (incomingByte == 66) {
+            b();
+            charspace();
+        }
+
+        if (incomingByte == 67) {
+            c();
+            charspace();
+        }
+
+        if (incomingByte == 68) {
+            d();
+            charspace();
+        }
+
+        if (incomingByte == 69) {
+            e();
+            charspace();
+        }
+
+        if (incomingByte == 70) {
+            f();
+            charspace();
+        }
+
+        if (incomingByte == 71) {
+            g();
+            charspace();
+        }
+        
+        if (incomingByte == 72) {
+            h();
+            charspace();
+        }
+
+        if (incomingByte == 73) {
+            i();
+            charspace();
+        }
+
+        if (incomingByte == 74) {
+            j();
+            charspace();
+        }
+
+        if (incomingByte == 75) {
+            k();
+            charspace();
+        }
+
+        if (incomingByte == 76) {
+            l();
+            charspace();
+        }
+
+        if (incomingByte == 77) {
+            m();
+            charspace();
+        }
+
+        if (incomingByte == 78) {
+            n();
+            charspace();
+        }
+
+        if (incomingByte == 79) {
+            o();
+            charspace();
+        }
+
+        if (incomingByte == 80) {
+            p();
+            charspace();
+        }
+
+        if (incomingByte == 81) {
+            q();
+            charspace();
+        }
+
+        if (incomingByte == 82) {
+            r();
+            charspace();
+        }
+
+        if (incomingByte == 83) {
+            s();
+            charspace();
+        }
+
+        if (incomingByte == 84) {
+            t();
+            charspace();
+        }
+
+        if (incomingByte == 85) {
+            u();
+            charspace();
+        }
+
+        if (incomingByte == 86) {
+            v();
+            charspace();
+        }
+
+        if (incomingByte == 87) {
+            w();
+            charspace();
+        }
+
+        if (incomingByte == 88) {
+            x();
+            charspace();
+        }
+
+        if (incomingByte == 89) {
+            y();
+            charspace();
+        }
+
+        if (incomingByte == 90) {
+            z();
+            charspace();
+        }
+
+        if (incomingByte == 49) {
+            one();
+            charspace();
+        }
+
+        if (incomingByte == 50) {
+            two();
+            charspace();
+        }
+
+        if (incomingByte == 51) {
+            three();
+            charspace();
+        }
+
+        if (incomingByte == 52) {
+            four();
+            charspace();
+        }
+
+        if (incomingByte == 53) {
+            five();
+            charspace();
+        }
+
+        if (incomingByte == 48) {
+            zero();
+            charspace();
+        }
+
+        if (incomingByte == 54) {
+            six();
+            charspace();
+        }
+
+        if (incomingByte == 55) {
+            seven();
+            charspace();
+        }
+
+        if (incomingByte == 56) {
+            eight();
+            charspace();
+        }
+
+        if (incomingByte == 57) {
+            nine();
+            charspace();
+        }
         
         Serial.print("I received ");
         Serial.println(incomingByte, DEC);
