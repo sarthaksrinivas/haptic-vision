@@ -1,7 +1,7 @@
 // Instance Variables
 int unit = 250;
 int motorPin = 5;
-int motorSpeed = 60;
+int motorSpeed = 160;
 
 void setup() {
     Serial.begin(9600);
